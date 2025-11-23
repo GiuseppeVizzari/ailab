@@ -9,6 +9,17 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+collections:
+  people:
+    output: true
+    permalink: /people/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+  events:
+    output: true
+    permalink: /events/:path/
+
 exclude:
   - Gemfile
   - Gemfile.lock
