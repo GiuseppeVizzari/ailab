@@ -4,7 +4,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: jekyll-theme-prime # Optional: using a default theme or just standard
+# theme: jekyll-theme-prime # Removed unsupported theme to use custom layouts
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
