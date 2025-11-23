@@ -1,7 +1,7 @@
 title: "AILAB"
 description: "Artificial Intelligence Laboratory"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ailab" # the subpath of your site, e.g. /blog
+url: "https://giuseppevizzari.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # theme: jekyll-theme-prime # Removed unsupported theme to use custom layouts
