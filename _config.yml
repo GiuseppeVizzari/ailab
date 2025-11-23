@@ -1,0 +1,14 @@
+title: "AILAB"
+description: "Artificial Intelligence Laboratory"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: jekyll-theme-prime # Optional: using a default theme or just standard
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
